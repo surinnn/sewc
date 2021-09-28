@@ -15,3 +15,7 @@
 주변 마트에서 사고자 하는 물품(음식, 옷, 가전제품)을 직접 배달받는 서비스 앱
 그 앱은 주변 상권을 살리고자 하는 목표와 함께 고객의 집 주변에 위치해 있는
 가게에서 쉽고 빠르게 물품을 배송받을 수 있는 장점이 있다. 
+
+## 5주차 과제
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/90250294/135100013-263d8e49-59fb-4630-a5c3-928da374825c.png"></img>
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/90250294/135100250-333d2662-0b04-42d2-8679-9769417d6a7f.png"></img>
