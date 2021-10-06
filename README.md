@@ -19,3 +19,9 @@
 ## 5주차 과제
   <img width="500" height="500" src="https://user-images.githubusercontent.com/90250294/135100013-263d8e49-59fb-4630-a5c3-928da374825c.png"></img>
   <img width="500" height="500" src="https://user-images.githubusercontent.com/90250294/135100250-333d2662-0b04-42d2-8679-9769417d6a7f.png"></img>
+
+## 6주차 과제
+  <strong>width</strong>
+  <img width="413" alt="width" src="https://user-images.githubusercontent.com/90250294/136181134-88b898b4-7733-4d70-bbb5-2a28f992fd6b.png"></img>
+  <strong>height</strong>
+  <img width="402" alt="height" src="https://user-images.githubusercontent.com/90250294/136181205-e764825b-cf06-4cb9-9bf1-84dbdddc5bc6.png"></img>
